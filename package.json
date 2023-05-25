@@ -1,0 +1,22 @@
+{
+  "name": "timepsss",
+  "version": "1.0.0",
+  "description": " simple to-do nodejs api where app with mongodb crud operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "mongodb",
+    "mongoose",
+    "crud"
+  ],
+  "author": "Nilesh chaudhari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1"
+  }
+}
